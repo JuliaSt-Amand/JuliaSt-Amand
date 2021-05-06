@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html>
 <head>
   <title> Media Web Design Portfolio Project</title>
   <meta name="description" content="Final Portfolio">
@@ -15,7 +16,4 @@
   </div>
   <script src="js/page3.js"></script>
 </body>
-
-
-
-
+</html>

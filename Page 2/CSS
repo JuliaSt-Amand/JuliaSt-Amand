@@ -1,1 +1,14 @@
+<style>
+<div id= "div1">
+See how styling changes this page!<br>
+<button id= "button1" onclick="make_Cyan()"> 
+</button>
+</style
+
+p {
+  color: gray;
+  font-family: "Lobster", cursive;
+  font-size: 200%;
+  text-align: center;
+  }
 

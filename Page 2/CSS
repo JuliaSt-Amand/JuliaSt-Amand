@@ -1,14 +1,39 @@
-<style>
-<div id= "div1">
-See how styling changes this page!<br>
-<button id= "button1" onclick="make_Cyan()"> 
-</button>
-</style
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Media Web Design Portfolio Project</title>
+  <meta name="description" content="Final Portfolio">
 
-p {
-  color: gray;
-  font-family: "Lobster", cursive;
-  font-size: 200%;
-  text-align: center;
-  }
+  <link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>Page #3</h1> 
+  <p>I would like to express some potential transformative tools on this third page. See with this button how you can alter the styling. Will it work?</p>
+  <button id="div1">Click me!</button>
+  <div id="transform">
+    <p>Check out this neat trick!</p>
+  </div>
+  <script src="js/page3.js"></script>
+</body>
+</html>
+
+CSS <style>
+#div1{
+  background-color: hsl(0, 45%, 85%);
+border-style:double;
+border-width: 5px;
+border-radius:30px;
+border-color:green;
+font-family: "great vibes";
+font-size: 30px;
+}
+</style>
+
+function make_blue(){
+var div= document.getElementById('div1');
+var style= "background-color:Blue";
+div.style=style;
+}
+
 

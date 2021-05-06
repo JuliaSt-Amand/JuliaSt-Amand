@@ -18,22 +18,5 @@
 </body>
 </html>
 
-CSS <style>
-#div1{
-  background-color: hsl(0, 45%, 85%);
-border-style:double;
-border-width: 5px;
-border-radius:30px;
-border-color:green;
-font-family: "great vibes";
-font-size: 30px;
-}
-</style>
-
-function make_blue(){
-var div= document.getElementById('div1');
-var style= "background-color:Blue";
-div.style=style;
-}
 
 

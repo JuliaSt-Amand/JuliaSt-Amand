@@ -53,6 +53,6 @@ h2 {
 }
 
 .blogText {
-  transition: transform .1s;
-  transform: translate(10px, 10px);
+  transition: transform .7s;
+  transform: translate(20px, 20px);
 }

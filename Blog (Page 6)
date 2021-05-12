@@ -1,1 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Portfolio por (for) le (the) Webbo (web)</title>
+  <meta name="description" content="Portfolio">
+  <meta name="author" content="Julia St. Amand">
+<link href='https://fonts.googleapis.com/css?family=Alfa+Slab+One' rel='stylesheet' type='text/css'>
 
+</head>
+<body id="blog">
+  <div class="HeadDiv">
+    <h1 style="color: Indigo;">Alright, let's see how much we learned through JavaScript, Cascading Style Sheets, and the one and only Hyper Text Mark-up Language (HTML)</h1>
+    <h3 style="color: Navy;">This is the Blog of a Girl... Who Coded a River and Designed her Whole World! And while it wasn't so great and she was super stressed she had a lot of fun... in the class! (I hope you know this song reference)</h3>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      The First... of Many. May the following be fruity. <br>
+      Date: 02/08/21 <br>
+      Topic: Hold up, what's the "a" tag? (What's a.. saaaallllll-adddd?) <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is: <br>
+       Okay, so the "a" tag as we know it is a simple tag that is used to define the nature of a hyperlink within a prticular webpage or HTML document. I would declare that the most crucial aspect of the "a" tag is it's ability to use an href attribute. With the href attribute, the creator (me, or you, or who knows who?) can pick a url of their choice and situate it to a website or other destination based on their preference. Now, here's the tricky part. The url being used can be expressed just as the url it appears by... OR, it can be hidden like an easter egg in films and can be lain underneath a word, phrase, or other chosen identifying feature.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward: <br>
+   Alright, this one is a bit of a no-brainer for me I suppose. Since websites are constantly referencing each other and providing links and videos to other sites and content creators, it makes sense that the "a" tag would be used to help an individual identify something within a webpage that they wanted to reference from a different location, like their own personal site or some such. I'm hoping to learn how to use this tag fairly quickly since it consists of only a single letter... I guess we'll see. I think it will be useful going forward becuase it will give me a better understanding of the computers and other technology I'll be using in the future. Specifically, I think it will be quite advantageous to someone who needs to edit some website code in the case of there being some glitch or other issue with a link or other content.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic: <br>
+     While learning about and using this tag was fairly simple and to the point, I found that there were some obvious complexities with the nature of its deeper functions. When using the "a" tag, I will need to make sure that I have a foundational understanding of its attributes if I'm going to use it correctly in consistent manners. <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Is this the second? (Two. Days. Later..) <br>
+      Date: 02/10/21 <br>
+      Topic: "div" is a tag, I wonder if it can do math. Is it any good at div-ision? <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+      So, the "div" tag helps us to format a webpage to our preferences. It gives us the freedom to separate areas on a website based on location and personal content creation. In other words, we're able to distinguish between varying segments of a document depending on how we want each section to look individually and through the collective lens. Specifically, it works in a vertical sense, to distinguish the format based on the up-down point of view. The attributes of the tag are pretty useful too. They help us to format our webpage with numerous classes to identify the background color, the alignment of the text of our choice, the font-size and family, and the border types and colors as well as their thickness and angles. I like the "div" tag becuase of how versatile it is in this sense. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+       Well, I would say the "div" tag is important for a pluthera of reasons, including but not limited to its versatility in application and its ability to give us the formatting domain according to what we want our websites to look like. Without something like a "div" tag, we wouldn't be able to easily follow the formatting of a website, because it pretty much wouldn't have a format to begin with. In this sense, formatting is what makes a website either easy to difficult to get through, and to me I'd say that's the most important aspect of the tag itself. I need to be able to quickly and efficiently read and understand the main points of an article or online page if I'm going to get the most value from it. The "div" tag is incredibly useful for that purpose.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+     
+We’re beginning to really get into the thick of it now with this one. I’m starting to understand the reasoning for intense study in this subject… It has officially earned my respect as a thorough and intensive area of study, and I now look at each website online with a lot more humility and awe for the creators who spend their time putting it all together for us ignorant viewers. Talk about dedicated. Needless to say, I’m having more trouble with the topic, since there’s plenty more that goes on underneath the simple words and letters on the screen. I hope to become better familiarized with the “div” tag as we continue with the class content, though I can feel that the course is picking up in both speed and difficulty as we get further into the multi-faceted tags and their attributes. 
+ <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Let's make it a Third <br>
+      Date: 02/16/21 <br>
+      Topic: I plan to frame the audio in a game of tag as the one who broke the frame. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+    This week is focused on the “audio” tag. I had a lot of trouble with this one. I was able to get a video into a document, but I wasn’t able to get an individual audio clip to function on its own. I know now that I’ve used the tag incorrectly… The “audio” tag does what the word suggests, which is that it allows the creator to grab an audio clip from a video or other destination and bring it into a file to use independently. The types of audio files that can be manipulated include mp3’s, mp4’s, among others. Meanwhile, the “iframe” tag is used to take websites with audio or video and embed them into the code you’re creating separately. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+      We all know that websites are no fun without video and audio abilities. This function of the “audio” and “iframe” tags is useful for that purpose as well as for the means of creating content relevant tutorials, walkthroughs, and interactives for the viewers to engage themselves with to better enjoy the utility of the website they’re looking at. This is what makes YouTube, Instagram, and other websites or apps pleasant and addictive to those who look for internet stim. With these tags, we can create and cater to user needs. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+      I don’t really see myself creating websites all that often in the future. Although, if I do find myself in that position, I’d certainly need to touch upon the skills I learned while using the “audio” and “iframe” tags. The two are integral to any website, and though I found myself struggling with one or the other at times, I enjoyed the satisfaction that I felt once I was able to insert a video of a dog into one of my fiddles. Unfortunately, the simple audio clip I embedded wouldn’t play, though I think that the dog video was more fulfilling despite my having given up on trying the “audio” tag correctly. I’d say the “audio” tag itself was more difficult for me to use. <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      May the Fourth be with you <br>
+      Date: 02/18/21 <br>
+      Topic: This isn't a button. It's just a "tag". That masquerades as a "button". <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+     I really liked the “button” tag. I found that being able to change the color and styling of a page by pressing a single button was well worth the effort, and it was versatile in the sense that the button gave the page some sense of pizazz. I liked that the tag could be used to create buttons that pull up the text on a webpage, and my favorite part was that the button changes in style and shape according to what you put into it. You can make it harshly angled at the corners, or you can give it soft edges to match a flowing font that you particularly like.  <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+   Why wouldn’t a button be important? They’re one of the most common aspects of websites, probably because clicking buttons gives a slight endorphin rush when something good or exciting happens as a result of clicking said button! Not only that, but a single button can bring you from one point of a website to an entirely new website altogether. I find that both incredible as well as frustrating when I click a button that brings me someplace far far away from where I want to be. Then I have to click other buttons and navigate to other areas in order to put myself back in the domain I want to be in. I feel like that’s one of the greatest aspects as well as the largest distraction that buttons can provide. In other words, there’s too many and not enough connections in a single button. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+    I stumbled a bit with the buttons. It was like walking into a building and tripping over a large invisible brick, according to my own experience. Creating a button that worked and did the function I wanted required a lot more effort than with using the “a” tag, and I discovered that the buttons I created often did something related but not equitable to the function I desired. Although, the simple functions like making the button turn a different color weren’t all too difficult. I think when we get more in-depth with buttons and mix them with JavaScript, I’ll likely have more confusion… I do like these button features though. They’re pretty fun, if a bit challenging.<br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Revenge of the Fifth <br>
+      Date: 02/23/21 <br>
+      Topic: The tag on this hat doesn't have a price. It just says "style". How do I pay for it?? <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+    We used the “style” tag this week. I don’t want to stress the importance of this tag, it has pushed me to the brink of style. That’s not all that great for me since I already have no sense of style in accordance with the popular go-to! This is a mini avalanche of cascading style sheets that shows no relent on the tired tips of my typing tarsals. Although, that’s not to say I don’t enjoy using this tag. I find that changing up the font-families, color, size, text-alignment, padding, and other features of my text can be both spritzy and spicy, as I found value in creating a webpage that lacked professional formatting but had a sense of playful non-styling that a newbie such as myself would express. Using the “style” tag helped me to develop a better sense of how to format a webpage and how people typically do it in work. You can not only reference a style in an html file, but you can also use styling to make a webpage entirely your own as a means of self-expression; if that’s what you’re into.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+     The “style” tag must be used in close to all aspects of code created, because of how fundamental it is to the nature of coding itself. Thanks to this tag alone, I can make a noir-styled newspaper into something that jumped right out of Wonderland! Color popping out everywhere and fonts hanging sizes and shapes; I can use styling to make a plain-Jane website into something of a masterpiece. If only I had the skills to go along with it! I’m sure that if I were to ever need coding in the future, I’d use styling to make the website my most interesting piece of work according to my skill level at that point.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+    Since we only went over the start-ups when it comes to “style” tags, I felt like I could’ve used more practice with styling in itself. As we continue through the class, I know that we’ll be able to gather more information and experience working with this tag, and we’ll become more comfortable applying it to websites and their unique characteristics. However, I feel I may stumble across some roadblocks due to my novice nature in the course, and I tend to get incredibly overwhelmed by symbols and redundant information when used on small place-settings in large quantities. That will likely be my biggest setback in this course. I will need to find a way to absorb large amounts of information in a manner that’s both effective and that will allow me to retain enough to use the tags and coding skills at hand with proper effectiveness. I’m hoping that since this is a fundamental tag by nature, that it’s consistent usage will allow me to better develop my understanding of greater, more complicated types of coding techniques.<br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Attack of the Sixth <br>
+      Date: 02/25/21 <br>
+      Topic: CSStyling! <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+     This week is all about Cascading Style Sheets. It’s pretty important for html, since it responds directly to the type of coding you’re writing. While CSS can be used in its own file and its own domain for clear purposes, it can also be used within an html file to create a response within a single document. CSS is pretty versatile, though it can be rendered useless by a single line of incorrect text.  <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+     Without CSS as we currently know it, the internet wouldn’t exist in the same manner as we have it right now. That’s due to the fact that html and CSS together create what we see and interact with on the most basic, fundamental levels of internet usage available. Even the tiniest games with simple actions may require html and CSS coding in order to function. I can use CSS in the future to help build websites with the intention of improving upon previously identified functions or purposes. Although, I do not see myself needing to use CSS as vehemently as those within the domain of internet creation or graphic design. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+     I wasn’t too great with this topic. I found CSS to b a bit complicated, though I also know that my level of understanding hinged upon my ability to absorb and use the information which I was trying to teach myself. Since I’m a very visual and active learner, I found that it was rather difficult to create using CSS when there weren’t previously completed examples in front of me to work with and manipulate at will. However, I tried to not give up on the usage of CSS in general, because I know how important it is to the nature of the internet and coding in its own right. I did like changing the background colors and the fonts and margins as well as alignments and pixel counts within my documents though. I found that to be pretty engaging. <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Seven weeks of coding <br>
+      Date: 03/02/21 <br>
+      Topic: Let'CSS make colors! <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+     I can’t even describe how many colors there are in the color spectrum. There are more colors than are visible to the human eye in all of existence. We can only function using a fraction of these different colors, though we can create all sorts of combinations on a webpage thanks to the function of CSS and color-coding. We can change the color of text by altering the direct name of the color, by changing the hex code with different values, by using hsl coding to alter the type of color and its saturation, and by changing the rbg code, or the amount of each color within the content.  <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+     Like with painting, you need a proper handle over the colors you want to be using to create something online. With coding, you need a particular combination of colors and numbers in order to bring forth the exact shade you’re looking for. As I previously described, CSS can be used to go from a newspaper article to something out of a fairy tale when it comes to coloring. Colors are represented in nature by divine geometry that uses various formulas to create infinite combinations of colors found within plants, animals, and other forms of life and existence. This knowledge will help me to increase my level of awareness of colors as well as their purposes in both divine creation and intentional formulation. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+   I had the most trouble with using the hsl to change colors. I enjoyed using the rbg code to change my shades, as well as the standard name change when it came to a color I knew by identifier. Although, when it came to the hsl, I was having more difficulty with formatting my code. While it wasn’t necessarily the color that showed up incorrectly, I likely had some flaws with my actual coding that prevented the colors from manifesting the way I intended them to.  <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Okay we're gonna go standard with this cause I've run out of fun things to say. This is BLOG POST 8 <br>
+      Date: 03/23/21 <br>
+      Topic: The beginning. Of JS <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+We started out working with JavaScript this week. Variables and their types as well as defining characteristics were discussed. We focused a lot on the five standard degrees of variables, known as strings, integers, lists, Booleans, and objects. I was not fond of this topic. I have no foundational understanding of JavaScript… Here we go! <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+    I won’t really be using JavaScript going forward in my career as far as I could tell. Thanks to JavaScript though, a coder could create an incredibly well thought out website with engaging and interactive functions that would not only catch and hold the viewer’s attention but would also provide them with a sense of interest as they found themselves enmeshed in the total eclipse that is a page of really cool code. I do think that I may be required to provide some sense of Java understanding at some point in my future, though for what I have no clue. <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+      Well, I have no prior background of JavaScript, so I therefore had a really tough time trying to get the hang of this code while focusing on my other intensive classes. I wish that I’d had roughly double the time to work on this topic and this class in general, because I may have found myself in a better-suited position to put in a greater amount of effort into understanding and retaining the information being provided. Since JavaScript is a lot of functions and letter symbols put together, I easily got overwhelmed with the sheer amount of content that was being presented, and I would have done a lot better if I were able to follow along with the functions of each piece of Java coding that was being used. <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      A bland Blog Post #9 <br>
+      Date: 04/01/21 <br>
+      Topic: Functions through JavaScript <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+     JavaScript gives the creator the freedom to integrate the functions of buttons, images, videos, and other objects into a webpage for flowing interactive use by consumers. While JavaScript is incredibly complex, it makes the final webpage being used look simple and easy to use. How misleading that can be… <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+     I don’t think I’ll be needing to use JavaScript much if at all in my future, though I hope that if I do, I’ll be able to gather enough intel and skill to get myself into a rhythm of understanding with it. At least, I’d hope that I’d know enough to get down the base functions and uses. The useful thing about Java is that you can customize your page however you like with it. JavaScript is essential for any web designer if they intend to take and hold the attention of the viewers.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+     This topic was incredibly difficult for me. I mentioned I don’t have any prior experience with JavaScript, so it was super challenging for me to develop a foundational understanding of the content shown. While I was beginning to understand one item of use, we would move on to the next piece and I would have to leave the other one behind before getting comfortable with it. I can imagine myself learning about html and CSS with JavaScript on my own for fun, though I don’t think that I’d have much interest if it was incredibly difficult from the start.  <br>
+    </p>
+  </div>
+  <br>
+  <div class="Div1">
+    <p class="blogText">
+      Not even trying with this Blog Post #10 <br>
+      Date: 04/08/21 <br>
+      Topic: Arrays? JavaScript? <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q1: Explain what the topic is <br>
+ We talked about arrays this week. Using the stack feature or indexing, we can place arrays in a manner that is multi-functional. Arrays can have multiple elements and can serve many purposes. Since the array functions in a “first in and last out” manner, removing a value would require a specific function known as pop(), while adding a value would require us to use the push() function.  <br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q2: Explain why you think the topic will be useful going forward <br>
+  Arrays are pretty much used to create a filing cabinet of sorts. In other words, arrays work in a manner that makes it easier to organize values and features of a website without losing things to the abyss that is the web of coding. We can store data and other objects in arrays, and we can identify variables in terms that an array can identify quickly and easily when we need them to. For me personally, I likely will not need to use arrays in my future, though I can see how they would be super useful for someone in the CS professions.<br>
+      ----------------------------------------------------------------------------------------- <br>
+      Q3: How difficult was it to work on this weeks topic <br>
+      This was a pretty difficult topic for me. I know I’ll likely need some help from my computer-aligned classmates when it comes to our final project. Arrays seem like a pretty simple concept to follow, though since I had no prior awareness of them and didn’t have as much experience with the other concepts as I would have preferred, the usage of arrays has become elusive to me in the sense that my coding becomes flawed. I look forward to the challenges that this final project will confront me with, as it will determine how well I was able to learn and implement the different techniques we’ve learned over the course of this semester. <br>
+    </p>
+  </div>
+  <script src="js/page6.js"></script>
+</body>
+</html>

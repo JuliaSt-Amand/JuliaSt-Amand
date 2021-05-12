@@ -70,9 +70,9 @@ h2 {
 #div1{
   background-color: lavender;
 border-style:double;
-font-size: 32px;
-border-width: 5px;
-border-radius:3px;
+font-size: 42px;
+border-width: 15px;
+border-radius:13px;
 border-color:green;
 }
 
@@ -82,7 +82,7 @@ border-color:green;
 'button1'{
   background-color: lavender;
 border-style:double;
-border-width: 5px;
-border-radius:3px;
+border-width: 15px;
+border-radius:13px;
 border-color:green;
 }

@@ -5,6 +5,14 @@
 body {
   font-family: 'Playball', serif;
   background-color: hsl(30, 120%, 180%);
+  font-size: 24px;
+  padding: 12px;
+  margin: 4px;
+  position: center;
+  border: 20px inset pink;
+  border-radius: 13px;
+  border-color: forest green;
+  border-width: 20px;
   
 }
 

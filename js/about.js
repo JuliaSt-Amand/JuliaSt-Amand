@@ -1,4 +1,4 @@
-function make_lavender(){
+function make_blue(){
 	var div= document.getElementById('div1');
 	var style= "background-color:lavender";
 div.style=style;
